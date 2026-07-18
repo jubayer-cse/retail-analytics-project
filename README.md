@@ -224,5 +224,5 @@ pip install pandas numpy sqlalchemy psycopg2-binary jupyter
 
 Open to Data Analyst opportunities globally.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/md-jubayer-cse-ml)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/jubayer-cse)
